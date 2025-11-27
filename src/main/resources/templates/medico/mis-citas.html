@@ -1,4 +1,15 @@
 <!-- src/main/resources/templates/medico/mis-citas.html -->
+
+// Se implementa lógica condicional en cada fila para mostrar acciones según el estado de la cita.
+// Acciones agregadas:
+  • Editar y cancelar solo cuando la cita está en estado RESERVADA.
+  • Permitir “Realizar” únicamente cuando la cita está FACTURADA.
+  • Mostrar acceso al historial médico cuando la cita está REALIZADA.
+// Se mejora la estructura visual con botones Bootstrap (warning, danger, success, primary).
+// Se asegura la inclusión del token CSRF en los formularios de cancelación.
+// Corrección de estilos y estructura HTML dentro de la tabla responsiva.
+
+
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>

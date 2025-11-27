@@ -1,4 +1,17 @@
 <!-- src/main/resources/templates/clinica/ver-citas.html -->
+
+// Implementación de visualización dinámica de acciones por cada fila de cita.
+// Solo se muestra 'Facturar' cuando la cita está RESERVADA.
+// Botón 'Ver Factura' visible únicamente si la cita está FACTURADA o REALIZADA.
+// Botón 'Ver Historial Médico' disponible para citas REALIZADAS.
+// Etiquetas visuales (badges) que cambian según el estado de la cita.
+// Mejora de la tabla con estilos y hover para resaltar filas.
+// Mantengo el botón de eliminación visible para todas las citas.
+// Se agrega estructura limpia y estilos personalizados para la tabla y el panel.
+
+
+
+
 <!DOCTYPE html>
 <html xmlns:th="http://www.thymeleaf.org">
 <head>
