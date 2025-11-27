@@ -94,7 +94,7 @@ java -jar target/gestiondecitasmedicas.jar
 - JasperSoft Studio (diseño de reportes)  
 - MariaDB Workbench  
 
-📌 **Tablero Miro:** https://miro.com/welcomeonboard/WW80VURiczJXTi9pazh1WHRDaWJZUElEOHIxdDdUMXJJZ1A2cVhNaXFDR1V4Ti9qUXh1bVoyelIxK2RYUmpiOEpyRXFwYUFLZ3pyMkRjRmFtelhFbmRTdW50VVNFVUhMTTlMR2NrMFZ1RHNvZmlBd1VZVGRKVkptKzBJaHRWTVBNakdSWkpBejJWRjJhRnhhb1UwcS9BPT0hdjE=?share_link_id=928082782380
+📌 **Tablero Miro:** https://miro.com/app/board/uXjVJ9J65yw=/?share_link_id=462470290970
 
 ---
 
