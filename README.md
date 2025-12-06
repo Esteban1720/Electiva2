@@ -96,18 +96,6 @@ java -jar target/gestiondecitasmedicas.jar
 
 📌 **Tablero Miro:** https://miro.com/app/board/uXjVJ9J65yw=/?share_link_id=462470290970
 
----
-
-## 👥 Colaboradores
-
-- Taylor Antonio Quiñones Caicedo*
-- Yan Carlos Cifuentes*
-- Cristian Obispo*
-- Ana lorena vente*
-- Esteban Ruiz*
-- Yeison Stiven Lozano*
-- Jonatan patiño*
-
 ## 🛡️ Buenas prácticas
 
 - No subir contraseñas al repositorio.
